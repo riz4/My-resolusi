@@ -2,6 +2,9 @@ RENCANA KONTEN RIZ
   - Javascript
     * ES6
     * Framwork Javascript
+    ^ Vue
   - Struktur data dasar
   - PHP Framwork
+  ^ Laravel
   - Vlog
+  - Python
