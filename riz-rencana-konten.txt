@@ -3,6 +3,7 @@ RENCANA KONTEN RIZ
     * ES6
     * Framwork Javascript
     ^ Vue
+    ^ React
   - Struktur data dasar
   - PHP Framwork
   ^ Laravel
