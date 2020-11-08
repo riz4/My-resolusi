@@ -1,4 +1,6 @@
 RENCANA KONTEN RIZ
   - Javascript
+    * ES6
+    * Framwork Javascript
   - PHP Framwork
   - Vlog
