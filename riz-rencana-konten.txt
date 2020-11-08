@@ -1,0 +1,4 @@
+RENCANA KONTEN RIZ
+  - Javascript
+  - PHP Framwork
+  - Vlog
